@@ -1,0 +1,4 @@
+name = "FourierPtychography"
+uuid = "99617dbc-50f5-478e-a69e-f95df3031079"
+authors = ["jakeoung <jakeoung@gmail.com>"]
+version = "0.1.0"
